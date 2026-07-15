@@ -1,5 +1,14 @@
 # CallBro
 
+[![Latest release](https://img.shields.io/github/v/release/CallBroAI/callbro-releases?label=Release&color=007AFF&logo=github)](https://github.com/CallBroAI/callbro-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/CallBroAI/callbro-releases/total?label=Downloads&color=34C759&logo=github)](https://github.com/CallBroAI/callbro-releases/releases)
+[![Website](https://img.shields.io/badge/Website-callbro.ai-111827?style=flat-square)](https://callbro.ai)
+[![License](https://img.shields.io/badge/License-callbro.ai%2Flicense-6B7280?style=flat-square)](https://callbro.ai/license)
+
+[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-000000?logo=apple&logoColor=white)](https://github.com/CallBroAI/callbro-releases/releases/latest)
+[![Linux](https://img.shields.io/badge/Linux-.deb%20%7C%20.rpm%20%7C%20AppImage-FCC624?logo=linux&logoColor=black)](https://github.com/CallBroAI/callbro-releases/releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-Microsoft%20Store-0078D4?logo=windows&logoColor=white)](https://apps.microsoft.com/detail/9pf55fwhq12t)
+
 **AI notepad, transcript & summary — privately on your device.**
 
 CallBro transcribes your calls and turns them into notes, summaries, and action items. Everything stays local. No account required. Completely free.
